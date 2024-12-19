@@ -21,7 +21,11 @@ Ensure you have the following installed on your system:
    - `pip` for the backend dependencies.
 6. **PostgreSQL** (if using a database).
 
----
+## Clone the project to local storage
+```bash
+git clone https://github.com/miahsbrain/labelbox.git
+```
+
 
 ## Backend Setup (FastAPI)
 
